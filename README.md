@@ -1,3 +1,7 @@
+Simple Login Form where users can create an account, login, logout, view a dashboard, and edit their account info. 
+Users are stored on Google Firebase database.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,5 +71,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-
-Simple Login Form where users can create an account, login, logout, view a dashboard, and edit their account info. Users are stored on Google Firebase database.
